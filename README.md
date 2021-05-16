@@ -7,5 +7,5 @@ I work at [Netlify](https://www.netlify.com/?utm_source=github&utm_medium=gh-pro
 Hola, soy Andres Arenas, Construyo muchas y diversas aplicaciones para IOS-Android con el Frammework Flutter 2.0, con el lenguage de programación Dart en todas sus variedades y con diversos complementos desde el front hasta el back-end!.
 
 Follow:
-Instagram: [_@andresadar_](https://www.instagram.com/andresadar)
+Instagram: [_@andresadd_](https://www.instagram.com/andresadd) |
 Facebook: [_Andres Arenas R_](https://www.facebook.com/Andres.Arenas.Rs)
