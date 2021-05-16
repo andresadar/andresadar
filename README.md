@@ -3,3 +3,9 @@
 Hi. I’m Jason. I build lots of demos on this account and the [@learnwithjason](https://github.com/learnwithjason) organization. Most of them are built live on [_Learn With Jason_](https://www.learnwithjason.dev), a live-streamed pair programming show where super smart people join to teach us something new in 90 minutes.
 
 I work at [Netlify](https://www.netlify.com/?utm_source=github&utm_medium=gh-profile-jl&utm_campaign=devex) as a Principal Developer Experience Engineer. For more information about me (and a whole lot of shenanigans), check out [jason.af](https://www.jason.af/).
+
+Hola, soy Andres Arenas, Construyo muchas y diversas aplicaciones para IOS-Android con el Frammework Flutter 2.0, con el lenguage de programación Dart en todas sus variedades y con diversos complementos desde el front hasta el back-end!.
+
+Follow:
+Instagram: [_@andresadar_](https://www.instagram.com/andresadar)
+Facebook: [_Andres Arenas R_](https://www.facebook.com/Andres.Arenas.Rs)
