@@ -4,12 +4,11 @@ Hi, I'm Andres Arenas, I build many and diverse applications for IOS-Android wit
 
 Hola, soy Andres Arenas, Construyo muchas y diversas aplicaciones para IOS-Android con el Frammework Flutter 2.0, con el lenguaje de programación Dart en todas sus variedades y con diversos complementos desde el front hasta el back-end!.
 
-Follow:
+You can follow me on
 Instagram: [_@andresadd_](https://www.instagram.com/andresadd).
 Facebook: [_Andres Arenas R_](https://www.facebook.com/Andres.Arenas.Rs).
 
-You can follow me on instagram [@andresadd](https://www.instagram.com/andresadd)
- 
+
  | [**Festival $ Events**](https://media0.giphy.com/media/movITHSkO2TtZFnYze/giphy.gif?cid=790b76114784caf3636f4883aa5cc3a32f5757e0deada1c5&rid=giphy.gif&ct=g)      | [**Recipe food - Slivers**](https://media4.giphy.com/media/d5OSHre3azUJP0v24g/giphy.gif?cid=790b761199b825115fb66af4a220804af9c6e4c05f989821&rid=giphy.gif&ct=g)     | 
 |------------|-------------| 
 |  <img src="https://media0.giphy.com/media/movITHSkO2TtZFnYze/giphy.gif?cid=790b76114784caf3636f4883aa5cc3a32f5757e0deada1c5&rid=giphy.gif&ct=g" width="250"> |  <img src="https://media4.giphy.com/media/d5OSHre3azUJP0v24g/giphy.gif?cid=790b761199b825115fb66af4a220804af9c6e4c05f989821&rid=giphy.gif&ct=g" width="250"> |
